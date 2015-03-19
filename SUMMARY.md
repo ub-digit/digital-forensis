@@ -8,5 +8,5 @@
 * Utläsning av data från bärare
 * Analysera data
 * Lagring av data
-* Länkar / Resurser
+* [Länkar / Resurser](lankar__resurser.md)
 
