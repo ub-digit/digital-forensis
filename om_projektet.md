@@ -6,4 +6,4 @@ Projektet pågick under perioden jan 2014- mars 2015.
 
 **Umeå Universitetsbibliotek: ** Mats Danielsson, Anders Lindberg, Alexander Näslund 
 
-## Projektrapport
+## Projektrapport och resultat
