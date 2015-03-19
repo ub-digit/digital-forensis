@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [Digital Forensis](README.md)
 * [Om Digital Forensis](om_digital_forensis.md)
 
