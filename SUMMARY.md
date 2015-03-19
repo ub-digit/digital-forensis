@@ -3,4 +3,5 @@
 * [Om vitboken](README.md)
 * [Om projektet](om_projektet.md)
 * [Bakgrund](bakgrund.md)
+* Mottagande av elektroniskt material
 
