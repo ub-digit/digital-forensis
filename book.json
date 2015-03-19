@@ -1,1 +1,9 @@
-{}
+{
+    "name": "Digital Forensis",
+    "version": "0.1",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ub-digit/digital-forensis.git"
+    }
+}
