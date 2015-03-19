@@ -2,5 +2,5 @@
 
 * [Om vitboken](README.md)
 * [Om projektet](om_projektet.md)
-* Bakgrund
+* [Bakgrund](bakgrund.md)
 
