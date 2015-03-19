@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * Introduktion
-* Om Digital Forensis
+* [Om Digital Forensis](om_digital_forensis.md)
 
