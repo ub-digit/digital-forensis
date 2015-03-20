@@ -6,6 +6,7 @@
 * [Innan leveransen](innan_leveransen.md)
 * [Mottagande av elektroniskt material](mottagande.md)
 * [Utläsning av data från bärare](utlasning.md)
+ * [Skivavbildning](skivavbildning.md)
 * Analysera data
 * Lagring av data
 * [Länkar / Resurser](lankar__resurser.md)
