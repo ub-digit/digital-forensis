@@ -5,6 +5,7 @@ Då integriteten hos bärare av digitalt material är osäker i bästa fall, bö
 
 [Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
 
+> Data kan läsas direkt från en disk, eller via en skivavbildning. Skivavbildningar är oftast att föredra, men kan ibland vara praktiskt olämpliga på grund av sin storlek.
 
 ## Skrivblockerare
 För att vara säker på att data inte förvanskas vid kopiering och analys från bäraren används med fördel Skrivblockerare(eng. Write-Blockers). I många fall kan det räcka med en mjukvarubaserad variant, där operativsystemet helt enkelt inte tillåts skriva något till bäraren. För att vara helt säker krävs dock en hårdvaruvariant. Denna kopplas in mellan datorn och bäraren, och ser till att ingen information kan skickas till bäraren.
