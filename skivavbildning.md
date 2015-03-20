@@ -2,7 +2,9 @@
 Inom Digital Forensis är det standard att skapa en skivavbildning på materialet så fort som möjligt. Detta innebär i praktiken att en exakt kopia skapas som en enskild fil, vilken sedan kan lagras på ett säkert sätt och analyseras vid ett senare tillfälle. Samtidigt så kan skapandet av en skivavbildning vara väldigt resurskrävande både vad gäller processorkraft, lagringskapacitet och tid.
 
 ## Att skapa en skivavbildning
-Det finns ett antal programvaror för att skapa en skivavbildning utifrån en bärare, 
+Det finns ett antal programvaror för att skapa en skivavbildning utifrån en bärare, varav GuyMager som ingår i BitCurator-sviten är ett exempel. 
+
+>Guymager som ingår i BitCurator sviten ger användaen möjlighet att skapa en Skivavbildning både som RAW-fil eller inkapslad via Expert Witness standarden. [Klicka här för att komma till BitCurators wiki-sida om Guymager.](http://wiki.bitcurator.net/index.php?title=Creating_a_Disk_Image_Using_Guymager)
 
 ##Fördelar
 * Ger en exakt kopia på ursprungsmaterialet, vilket möjliggör att:
