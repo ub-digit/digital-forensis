@@ -23,7 +23,7 @@ Ett alternativ till skivavbildningen är att kopiera de filer som tycks relevant
 
 ### Fördelar
 * Tar upp mindre lagringsutrymme, då endast relevanta data sparas.
-* Undviker rättighetsproblem, då ev. problematisk data kan lämnas osparat.
+* Undviker rättighetsproblem, då ev. problematisk data kan försakas.
 
 ### Nackdelar
 
