@@ -8,4 +8,3 @@ Ett alternativ till skivavbildningen är att kopiera de filer som tycks relevant
 ## Nackdelar
 * Riskerar att framtida intressant data går förlorad, då de data som ej kopieras från bäraren får anses vara förlorad (sådan data _kommer_ att nå det stadiet vid någon tidpunkt).
 * Källinformation om filens ursprung måste lagras separat, eller anses förlorad.
-* 
