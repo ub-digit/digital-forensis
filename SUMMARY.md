@@ -8,7 +8,7 @@
 * [Utläsning av data från bärare](utlasning.md)
    * [Skivavbildning](skivavbildning.md)
    * [Filkopiering](filkopiering.md)
-* Analysera data
+* Analys av data
 * Lagring av data
 * [Länkar / Resurser](lankar__resurser.md)
 
