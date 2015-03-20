@@ -9,6 +9,8 @@ Det finns ett antal programvaror för att skapa en skivavbildning utifrån en b�
 ## Filformat
 Det finns en mängd olika format för skapande av Skivavbildningar, framförallt då större programvarusviter används. Vinsten med dessa format kan återfinnas i dess kompressionsmöjligheter samt metadata-fält. Dock rekommenderas RAW-formatet som arkiveringsformat, som är ett standardformat, ifall det inte finns en uttrckt tanke med att använda något annat format. Anledningen till detta är att de olika formaten ofta är knutna till företag eller organisationer, där det inte finns någon garanti för att formatet kommer att fortleva under någon längre tidsperiod. Risken finns därmed att arkivet över tid tvingas byta format, och därmed migrera existerande skivavbildningar, eller hantera olika typer av format.
 
+> RAW-formatet är en bit-för-bit kopia av disken, men helt utan tillhörande metadata. Detta lagras istället med tillhörande filer, vanligtvis som XML.
+
 ## Metadata
 Metadata om en skivavbildning kan bäddas in i den resulterade filen när det gäller vissa filformat. Detta gäller dock inte RAW-formatet, därav är rekommendationen att metadata sparas strukturerat(ex. XML) tillsammans med skivavbildningen.
 
