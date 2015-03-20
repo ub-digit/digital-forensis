@@ -9,6 +9,6 @@
    * [Skivavbildning](skivavbildning.md)
    * [Filkopiering](filkopiering.md)
 * [Analys av data](analys.md)
-* Lagring av data
+* [Lagring av data](lagring.md)
 * [Länkar / Resurser](lankar__resurser.md)
 
