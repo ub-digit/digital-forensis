@@ -19,5 +19,12 @@ Inom Digital Forensis är det standard att skapa en skivavbildning på materiale
 * Kan uppstå rättighetsbekymmer, då många hårddiskar från persondatorer innehåller proprietär data såsom programvaror, spel, e-post et c.
 
 ## Filkopiering
-Ett alternativ till skivavbildningen är
+Ett alternativ till skivavbildningen är att kopiera de filer som tycks relevanta, och låta resten vara. En möjlig arbetsgång är även att först skapa en skivavbildning för att kunna analysera materialet enklare, för att sedan slänga skivavbildningen när det relevanta materialet sparats undan.
+
+### Fördelar
+* Tar upp mindre lagringsutrymme, då endast relevanta data sparas.
+* Undviker rättighetsproblem, då ev. problematisk data kan lämnas osparat.
+
+### Nackdelar
+
 ## Skrivblockerare
