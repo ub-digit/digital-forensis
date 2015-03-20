@@ -2,7 +2,7 @@
 Inom Digital Forensis är det standard att skapa en skivavbildning på materialet så fort som möjligt. Detta innebär i praktiken att en exakt kopia skapas som en enskild fil, vilken sedan kan lagras på ett säkert sätt och analyseras vid ett senare tillfälle. Samtidigt så kan skapandet av en skivavbildning vara väldigt resurskrävande både vad gäller processorkraft, lagringskapacitet och tid.
 
 ## Att skapa en skivavbildning
-Det finns ett antal programvaror för att 
+Det finns ett antal programvaror för att skapa en skivavbildning utifrån en bärare, 
 
 ##Fördelar
 * Ger en exakt kopia på ursprungsmaterialet, vilket möjliggör att:
