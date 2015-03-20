@@ -5,7 +5,7 @@
 * [Bakgrund](bakgrund.md)
 * [Innan leveransen](innan_leveransen.md)
 * [Mottagande av elektroniskt material](mottagande.md)
-* Utläsning av data från bärare
+* [Utläsning av data från bärare](utlasning.md)
 * Analysera data
 * Lagring av data
 * [Länkar / Resurser](lankar__resurser.md)
