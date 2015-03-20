@@ -1,5 +1,8 @@
 # Bakgrund
-Forskningsbibliotek och andra förvärvande arkivinstitutioner står nu inför en stor utmaning, då donationer i högre andel består av digitala dokument och lagringsmedier.
+Forskningsbibliotek och andra förvärvande arkivinstitutioner står nu inför en stor utmaning, då donationer i högre andel består av digitala dokument och lagringsmedier. Där det i dagsläget finns väl uprövade och genomarbetade rutiner för hur ett arkiv med fysiska dokument ska hanteras, katalogiseras, bevaras och tillgängliggöras, saknas detta i de flesta fall då materialet består i en hårddisk, USB-sticka, Word-dokument eller liknande.
+
+Denna bok går igenom ett typiskt händelseförlopp för hur elektroniskt material kan hanteras, analyseras och lagras, samt vilka fällor som kan dyka upp.
+
 
 Personarkiv som samlas in, ordnas, vårdas och tillgängliggörs på Sveriges forskningsbibliotek är en viktig del av det svenska kulturarvet. Ett personarkiv kan innehålla brev, manuskript, anteckningar, dagböcker, biografiskt material, klippsamlingar och fotografier men det kan också förekomma andra materialkategorier. Personarkivet är ofta komplext ur ett fysiskt bevarande-perspektiv. Den ordning som arkivbildaren skapat, medvetet eller omedvetet, är ofta svåra att hantera genom att olika materialkategorier är blandade. Det kan också finnas post-it lappar, plastfickor, gem, tejp och pärmar eller omslag av dålig kvalitet och som riskerar att påskynda en nedbrytning av innehållet. 
 
