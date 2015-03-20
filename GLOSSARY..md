@@ -1,5 +1,1 @@
 # Glossary
-
-## Skivavbildning
-
-EN skivavbildning
