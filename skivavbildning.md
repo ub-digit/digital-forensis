@@ -6,6 +6,8 @@ Det finns ett antal programvaror för att skapa en skivavbildning utifrån en b�
 
 >Guymager som ingår i BitCurator sviten ger användaen möjlighet att skapa en Skivavbildning både som RAW-fil eller inkapslad via Expert Witness standarden. [Klicka här för att komma till BitCurators wiki-sida om Guymager.](http://wiki.bitcurator.net/index.php?title=Creating_a_Disk_Image_Using_Guymager)
 
+
+
 ##Fördelar
 * Ger en exakt kopia på ursprungsmaterialet, vilket möjliggör att:
  * Analys kan ske vid ett senare tillfälle utan att man riskerar att ha missat att spara relevant information.
