@@ -2,7 +2,8 @@
 Ett alternativ till skivavbildningen är att kopiera de filer som tycks relevanta, och låta resten vara. En möjlig arbetsgång är även att först skapa en skivavbildning för att kunna analysera materialet enklare, för att sedan slänga skivavbildningen när det relevanta materialet sparats undan.
 
 ## Tillvägagångssätt
-
+### Dokumentation
+Även då filer kopierats från en hårddisk, levererats via USB-sticka eller skickats via mail, behöver all möjlig information om filens ursprung dokumenteras. Detta även fast materialet inte kan analyseras i detalj ännu, då kontexten lätt kan gå förlorad.
 
 ## Fördelar
 * Tar upp mindre lagringsutrymme, då endast relevanta data sparas.
