@@ -13,4 +13,4 @@ Det finns ett antal programvaror för att skapa en skivavbildning utifrån en b�
 ##Nackdelar
 * Tar lång tid att skapa för stora diskar.
 * Tar upp stor lagringsyta, då skivavbildningen blir lika stor som ursprungsdisken i ett okomprimerat läge.
-* Kan uppstå rättighetsbekymmer, då många hårddiskar från persondatorer innehåller proprietär data såsom programvaror, spel, e-post et c.
+* Kan ge upphov till rättighetsbekymmer, då många hårddiskar från persondatorer innehåller proprietär data såsom programvaror, spel, e-post et c.
