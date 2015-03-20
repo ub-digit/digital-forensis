@@ -6,6 +6,7 @@ Inom Digital Forensis är det standard att skapa en skivavbildning på materiale
 
 ### Tillvägagångssätt
 
+
 ###Fördelar
 * Ger en exakt kopia på ursprungsmaterialet, vilket möjliggör att:
  * Analys kan ske vid ett senare tillfälle utan att man riskerar att ha missat att spara relevant information.
