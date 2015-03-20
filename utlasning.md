@@ -4,6 +4,8 @@ Då integriteten hos bärare av digitalt material är osäker i bästa fall, bö
 ## Skivavbildning
 Inom Digital Forensis är det standard att skapa en skivavbildning på materialet så fort som möjligt. Detta innebär i praktiken att en exakt kopia skapas som en enskild fil, vilken sedan kan lagras på ett säkert sätt och analyseras vid ett senare tillfälle. Samtidigt så kan skapandet av en skivavbildning vara väldigt resurskrävande både vad gäller processorkraft, lagringskapacitet och tid.
 
+### Tillvägagångssätt
+
 ###Fördelar
 * Ger en exakt kopia på ursprungsmaterialet, vilket möjliggör att:
  * Analys kan ske vid ett senare tillfälle utan att man riskerar att ha missat att spara relevant information.
@@ -16,4 +18,5 @@ Inom Digital Forensis är det standard att skapa en skivavbildning på materiale
 * Kan uppstå rättighetsbekymmer, då många hårddiskar från persondatorer innehåller proprietär data såsom programvaror, spel, e-post et c.
 
 ## Filkopiering
+Ett alternativ till skivavbildningen är
 ## Skrivblockerare
