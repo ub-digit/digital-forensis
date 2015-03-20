@@ -10,5 +10,9 @@ Inom Digital Forensis är det standard att skapa en skivavbildning på materiale
  * Den ursprungliga arbetsmiljön kan virtuellt simlueras i efterhand.
 * Skivavbildningen kan agera _auktoritet_ då digitala filer som plockats från bäraren ska referera till en ursprungskälla.
 
+###Nackdelar
+* Tar lång tid att skapa för stora diskar
+* 
+
 ## Filkopiering
 ## Skrivblockerare
