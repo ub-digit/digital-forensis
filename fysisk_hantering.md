@@ -1,2 +1,2 @@
-# Fysisk hantering av digitala bärare
+# Fysisk hantering av hybridarkiv
 
