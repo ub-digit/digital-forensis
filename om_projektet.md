@@ -7,3 +7,11 @@ Projektet pågick under perioden jan 2014- mars 2015.
 **Umeå Universitetsbibliotek: ** Mats Danielsson, Anders Lindberg, Alexander Näslund 
 
 ## Projektrapport och resultat
+[Projektrapporten - 2015-03-23](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/projektrapport_forvarv_av_digitala_personarkiv_och_digital_forensis.pdf)
+
+### Resultat
+Nedan följer de dokument som togs fram i samband med projektet. Samtliga texter är fria att använda helt eller delvis i er verksamhet.
+#### Donationshandling
+Ett donationsavtal som omfattar paragrafer för mottagande av digitala bärare.
+
+[Donationshandling](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/donationshandling.pdf)
