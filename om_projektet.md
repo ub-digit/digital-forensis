@@ -20,4 +20,4 @@ Ett donationsavtal som omfattar paragrafer för mottagande av elektroniska bära
 #### Registreringsblad för elektroniska lagringsmedia
 Ett dokument för att dokumentera lagringsmedia då de inkommer till arkivet.
 
-[Registreringsblad](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/elektroniska_lagringsmedia_registerblad.pdf )
+[Registreringsblad](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/elektroniska_lagringsmedia_registerblad.pdf)
