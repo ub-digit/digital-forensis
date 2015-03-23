@@ -12,7 +12,7 @@ Det finns ett antal olika format för skapande av skivavbildningar, framförallt
 En anledning till detta är att de övriga formaten tagits fram utifrån ett kriminaltekniskt perspektiv, vilket innebär att den metadata som kapsas in tillsammans med skivavbildningen inte nödvändigtvis tillgodoser behoven som finns för en arkivinstitution.
 
 En ytterligare anledning till att rekommendationen faller på RAW-formatet är att de övriga formaten ofta är knutna till företag eller organisationer, där det inte finns någon garanti för att formatet kommer att fortleva under någon längre tidsperiod. Risken finns därmed att arkivet över tid tvingas byta format, och därmed migrera existerande skivavbildningar, eller hantera olika typer av format.
-
+<hr>
 > Det rekommenderade formatet för skivabildningar är RAW, som ger en bit-för-bit kopia av disken, dock helt utan tillhörande metadata. Detta lagras istället med tillhörande filer, vanligtvis som XML.
 
 ## Metadata
