@@ -11,35 +11,46 @@ En annan viktig aspekt är att man vid hanteringen av de digitala dokumenten bib
 Digital forensis ger arkivarier nya kraftfulla verktyg och metoder för hantering av de digitala delarna av arkiv, men samtidigt väcker det frågor av etisk, legal och hermeneutisk natur om vad gränsen mellan det publika och privata går, samt vilket ansvar som donatorn, arkivarien och forskaren har gentemot arkivet. Dessa frågor måste klargöras och hanteras i samband med ett förvärv och institutionen som har kunskapen måste ta initiativet till att dessa behandlas på ett riktigt sätt. 
 
 ## Begrepp och definitioner
+<hr>
 ###BitCurator
 BitCurator var ett projekt som finansierades av the Andrew W.Mellon Foundation och leddes av School of Information and Library Science at the University of North Carolina, Chapel Hill (SILS) och Maryland Institute for Technology in the Humanities (MITH).  Projektet löpte 2011-2014 med syfte att ge arkivarier bättre möjligheter att hantera digitalt fött material. Projektet har nu omvandlats till ett konsortium för att förvalta ramverket med samma namn.
-
+<hr>
 ###Digital forensis (eng. Digital Forensics)
 Ett begrepp som har sitt ursprung inom kriminaltekniken och som innebär undersökning av alla typer av hårdvaror som kan innehålla digital data.
-
+<hr>
 ###Dold information
 Information som donatorn inte är medveten om. Ex. maskinellt skapad information, raderad men återskapad information i skivavbildningsprocessen.
+<hr>
 ###Donator
 Den som donerar något, givare. Någon som överlåter något till någon annans ägo utan att ta betalt eller kräva en ersättning.
+<hr>
 ###Filsystem
 Hur ett lagringsutrymmes, t. ex. en hårddisk, data är ordnad för att ge möjlighet att läsa från och skriva till lagringsutrymmet. Det finns en hel mängd både nya och gamla filsystemstyper, te x FAT, NTFS, HFS.
+<hr>
 ###Gallring
 En aktiv handling i syfte att avlägsna och förstöra handlingar/uppgifter efter en bedömning av informations- eller bevisvärdet.
+<hr>
 ###Informationsbärare 
 Ett fysiskt objekt som agerar lagringsutrymme åt digital data. Ex. Diskett, CD, Hårddisk, USB-minne.
+<hr>
 ###Hybridarkiv
 Ett fysiskt arkiv som innehåller både traditionella arkivobjekt (papper, brev, fotografier) och bärare av digital information (hårddiskar, CD-skivor, USB-minnen).
+<hr>
 ###Kontrollsumma (eng. checksum)
 En, med hjälp av en algoritm, uträknad summa för att unikt beskriva t ex en datafil. Kontrollsumman fungerar som ett fingeravtryck och gör att man i efterhand kan avgöra om kopian stämmer överens med originalet.
+<hr>
 ###Metadata
 ”Data om data”, t ex bibliografisk metadata (exempelvis titel, författare)  om en bok  eller teknisk metadata (storlek, filtyp) om en datafil.
+<hr>
 ###Proveniens
 Härkomst, ursprung. Uppgifter om ursprung, upphovsman, tidigare ägare och annan historia.
+<hr>
 ###Skivavbildning (eng. disk image)
 En exakt kopia av det digitala innehållet i en fysisk informationsbärare helt oberoende av filsystem. 
+<hr>
 ###Skrivblockerare (eng. Write Blocker)
 Hård- eller mjukvara som förhindrar oavsiktlig skrivning och därmed förändring av en skivavbildning under kopieringsprocessen.
-
+<hr>
 
 
 
