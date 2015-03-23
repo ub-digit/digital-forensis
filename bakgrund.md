@@ -32,7 +32,7 @@ En, med hjälp av en algoritm, uträknad summa för att unikt beskriva t ex en d
 ###Proveniens
 Härkomst, ursprung. Uppgifter om ursprung, upphovsman, tidigare ägare och annan historia.
 ###Skivavbildning (eng. disk image)
-En exakt kopia av det digitala innehållet i en fysisk informationsbärare helt oberoende av filsystemstyp. 
+En exakt kopia av det digitala innehållet i en fysisk informationsbärare helt oberoende av filsystem. 
 ###Skrivblockerare (eng. Write Blocker)
 Hård- eller mjukvara som förhindrar oavsiktlig skrivning och därmed förändring av en skivavbildning under kopieringsprocessen.
 
