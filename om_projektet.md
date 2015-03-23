@@ -12,6 +12,6 @@ Projektet pågick under perioden jan 2014- mars 2015.
 ### Resultat
 Nedan följer de dokument som togs fram i samband med projektet. Samtliga texter är fria att använda helt eller delvis i er verksamhet.
 #### Donationshandling
-Ett donationsavtal som omfattar paragrafer för mottagande av digitala bärare.
+Ett donationsavtal som omfattar paragrafer för mottagande av elektroniska bärare.
 
 [Donationshandling](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/donationshandling.pdf)
