@@ -4,7 +4,8 @@ Att analysera en skivavbildning kan ta mycket tid i anspråk om disken är stor,
 
 ## Extraktion av metadata
 
-Efter att skivavbildningen är gjord kan man, för att få en överblick av innehållet på disken, göra en extraktion av så mycket metadata som möjligt.
+Efter att skivavbildningen är gjord kan bör man
+, för att få en överblick av innehållet på disken, göra en extraktion av så mycket metadata som möjligt.
 Verktyg finns för att läsa ut denna metadata i olika former:
 
 * statistisk form
@@ -18,7 +19,8 @@ resultat av sökningar på olika strängmönster som t ex epost-adresser, url:er
 
 
 ## Bedömning av metadata
-En hårddisk innehåller filer som inte är intressanta för vidare analys, exempelvis programvaru- eller operativsystemfiler. Majoriteten av filerna på en hårddisk utgörs oftast av den här typen.
+En hårddisk innehåller många
+filer som inte är intressanta för vidare analys, exempelvis programvaru- eller operativsystemfiler. Majoriteten av filerna på en hårddisk utgörs oftast av den här typen.
 
 En stor del av filerna går att sortera bort automatiskt, men det kommer ändå alltid att återstå en ganska stor mängd som är'potentiellt relevanta'
 
