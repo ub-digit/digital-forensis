@@ -9,7 +9,7 @@ Det finns ett antal programvaror för att skapa en skivavbildning utifrån en b�
 ## Filformat
 Det finns ett antal olika format för skapande av skivavbildningar, framförallt då större programvarusviter används. Vinsten med dessa format kan återfinnas i dess kompressionsmöjligheter samt metadata-fält. Dock rekommenderas _RAW-formatet_ som arkiveringsformat, ifall det inte finns en uttryckt tanke med att använda något annat format.
 
-En anledning till detta är att de övriga formaten tagits fram utifrån ett kriminaltekniskt perspektiv, vilket innebär att den metadata som kapslas in tillsammans med skivavbildningen inte nödvändigtvis tillgodoser behoven som finns för en arkivinstitution.
+En anledning till detta är att de övriga formaten tagits fram utifrån ett kriminaltekniskt perspektiv, vilket innebär att den metadata som kapslas in tillsammans med skivavbildningen inte nödvändigtvis tillgodoser behoven som finns för en arkivinstitution. Effekten blir då att viss metadata tillhör skivavbildningen, medan annan metadata som inte ryms inom formatets deinfition måste sparas utanför som en separat fil.
 
 En ytterligare anledning till att rekommendationen faller på RAW-formatet är att de övriga formaten ofta är knutna till företag eller organisationer, där det inte finns någon garanti för att formatet kommer att fortleva under någon längre tidsperiod. Risken finns därmed att arkivet över tid tvingas byta format, och därmed migrera existerande skivavbildningar, eller hantera olika typer av format.
 <hr>
