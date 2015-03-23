@@ -20,7 +20,7 @@ För att vara säker på att data inte förvanskas vid kopiering och analys frå
 Skrivningar till bärare kan ske av misstag, men också via den kommunikation som standardmässigt äger rum mellan en dator och dess olika lagringsytor. Det går alltså inte att vara säker på att ingen data skriv till bäraren utan att aktivt använda sig utav en skrivblockerare.
 
 ###Mjukvarubaserad skrivblockerare
-I många fall kan det räcka med en mjukvarubaserad variant, där en applikation förnjuder operativsystemet att skriva något till bäraren. En sådan variant fungerar bra i dom allra flesta fall, framförallt mot oavsiktlig skrivning. Dock kan en mjukvara aldrig ge en fullständig garanti för att data gålls intakt, då programvaran körs på en högre nivå än ex. operativsystemet eller BIOS, och därmed omöjligen kan ha full kontroll över allt möjligt informationsutbyte.
+I många fall kan det räcka med en mjukvarubaserad variant, där en applikation förbjuder operativsystemet att skriva något till bäraren. En sådan variant fungerar bra i dom allra flesta fall, framförallt mot oavsiktlig skrivning. Dock kan en mjukvara aldrig ge en fullständig garanti för att data gålls intakt, då programvaran körs på en högre nivå än ex. operativsystemet eller BIOS, och därmed omöjligen kan ha full kontroll över allt möjligt informationsutbyte.
 
 I BitCurator-sviten ingår en mjukvarubaserad skrivblockerare, som enkelt aktiveras via gränssnittet.
 
