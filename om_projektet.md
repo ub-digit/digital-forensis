@@ -1,5 +1,7 @@
 # Om projektet *Digital forensis och digitala personarkiv*
-Projektet pågick under perioden jan 2014- mars 2015.
+Projektet pågick under perioden jan 2014- mars 2015, och hade som mål att ta fram rutiner samt ett rudimentärt förslag på lagringssystem för digitalt arkivmaterial. 
+
+Denna vitbok är en del av kunskapsspridningen som ingick i projektet.
 
 ## Projektgrupp
 **Göteborgs Universitetsbibliotek: ** Lennart Stark, Erik Siira, Anders Larsson, Jimmy Carlsson
