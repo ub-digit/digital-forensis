@@ -4,7 +4,7 @@ Då integriteten hos bärare av digitalt material är osäker i bästa fall, bö
 [Läs om att skapa en skivavbildning (digital kopia av den fysiska bäraren)](skivavbildning.md)
 
 [Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
-
+<hr>
 > Data kan läsas direkt från en disk, eller via en skivavbildning. Skivavbildningar är oftast att föredra, men kan ibland vara praktiskt olämpliga på grund av sin storlek.
 
 ##Programvara
