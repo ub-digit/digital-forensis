@@ -21,3 +21,7 @@ Ett donationsavtal som omfattar paragrafer för mottagande av elektroniska bära
 Ett dokument för att dokumentera lagringsmedia då de inkommer till arkivet.
 
 [Registreringsblad](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/elektroniska_lagringsmedia_registerblad.pdf)
+
+#### Checklista för digitala arkivleveranser
+
+[Checklista för digitala arkivleveranser](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/checklista_digitala_arkivleveranser.pdf )
