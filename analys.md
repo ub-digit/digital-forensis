@@ -10,10 +10,10 @@ Verktyg finns för att läsa ut denna metadata i olika former:
 * **Statistisk form:**
 antal filer, antal raderade filer, antal worddokument, antal pdf:er, antal bildfiler etc
 
-* **xmlform (dfxml):**
+* **XML-form (dfxml):**
 hela filstrukturen kodas i xml med namn, positioner och checksummor på mappar och filer
 
-* mönstermatchning
+* **Mönstermatchning:**
 resultat av sökningar på olika strängmönster som t ex epost-adresser, url:er, personnummer etc
 
 I BitCurator heter verktyget för analys av en skivavbildning **Fiwalk**.
