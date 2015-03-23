@@ -2,7 +2,11 @@
 Ett alternativ till skivavbildningen är att kopiera de filer som tycks relevanta, och låta resten vara. En möjlig arbetsgång är även att först skapa en skivavbildning för att kunna analysera materialet enklare, för att sedan slänga skivavbildningen när det relevanta materialet sparats undan.
 
 ## Tillvägagångssätt
+För att ta tillvara filer från en bärare kan man kopiera filerna direkt efter att ha kopplat bäraren till en dator, alternativt efter att först ha skapat en skivavbildning.
+
+Rekommendationen är att alltid skapa en skivavbildning ifall möjligheten finns, då detta minimerar risken att missa eller förlora information som kan vara av intresse. Skivavbildningen kan sedan arkiveras eller gallras beroende på gällande förutsättningar.
 ### Kopiera från skivavbildning
+Då en skivavbildning skapas, är det möjligt att extrahera filer från denna. I BitCurator-sviten utförs detta med hjälp utav programmet Bulk Extractor, som kan plocka ut samtliga eller en delmängd av de tillgängliga filerna på disken. Bulk Extractor och likvärdiga programvaror har fördelen att de även kan extrahera raderade filer från skivavbildningen.
 ### Kopiera filer direkt
 ### Dokumentation
 Även då filer kopierats från en hårddisk, levererats via USB-sticka eller skickats via mail, behöver all möjlig information om filens ursprung dokumenteras. Detta även fast materialet inte kan analyseras i detalj ännu, då kontexten lätt kan gå förlorad.
