@@ -4,7 +4,7 @@ Forskningsbibliotek och andra förvärvande arkivinstitutioner står nu inför e
 Denna Vitbok kommer att på ett koncist sätt gå igenom ett typiskt händelseförlopp där ett material doneras eller på annat sätt kommer arkivet tillhanda.
 
 ## Vad är Digital Forensis?
-Begreppet Digital Forensis (eng. "Digital Forensics") omfattar verktyg och metoder för hur man hanterar digitalt långtidsbevarande särskilt med hänsyn till att kunna skydda digitala spår så att dessa kan beforskas i framtiden. 
+Begreppet Digital Forensis (eng. "Digital Forensics") omfattar verktyg och metoder för hur man hanterar digitalt långtidsbevarande särskilt med hänsyn till att kunna skydda digitala spår så att dessa kan forskas på i framtiden. 
 
 En annan viktig aspekt är att man vid hanteringen av de digitala dokumenten bibehåller och säkrar ett dokuments trovärdighet genom bevarandeprocesser. 
 
