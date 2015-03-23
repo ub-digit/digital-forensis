@@ -1,5 +1,5 @@
 # Bakgrund
-Forskningsbibliotek och andra förvärvande arkivinstitutioner står nu inför en stor utmaning, då donationer i högre andel består av digitala dokument och lagringsmedier. För klassiska arkivsamlingar med fysiska dokument, finns idag väl utprövade och genomarbetade rutiner för ska hanteras, katalogiseras, bevaras och tillgängliggöras. Då materialet består i en hårddisk, USB-sticka, Word-dokument eller liknande saknas ofta likvärdiga rutiner, vilket i förlängningen kan leda till att information går förlorad.
+Forskningsbibliotek och andra förvärvande arkivinstitutioner står nu inför en stor utmaning, då donationer i högre andel består av digitala dokument och lagringsmedier. För klassiska arkivsamlingar med fysiska dokument, finns idag väl beprövade rutiner för hur materialet ska hanteras, katalogiseras, bevaras och tillgängliggöras. Då materialet istället består av en hårddisk, USB-sticka, Word-dokument eller liknande saknas ofta likvärdiga rutiner, vilket i förlängningen kan leda till att information går förlorad.
 
 Denna Vitbok kommer att på ett koncist sätt gå igenom ett typiskt händelseförlopp där ett material doneras eller på annat sätt kommer arkivet tillhanda.
 
