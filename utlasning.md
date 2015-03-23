@@ -15,6 +15,8 @@ Skrivningar till bärare kan ske av misstag, men också via den kommunikation so
 ###Mjukvarubaserad skrivblockerare
 I många fall kan det räcka med en mjukvarubaserad variant, där en applikation förnjuder operativsystemet att skriva något till bäraren. En sådan variant fungerar bra i dom allra flesta fall, framförallt mot oavsiktlig skrivning. Dock kan en mjukvara aldrig ge en fullständig garanti för att data gålls intakt, då programvaran körs på en högre nivå än ex. operativsystemet eller BIOS, och därmed omöjligen kan ha full kontroll över allt möjligt informationsutbyte.
 
+I BitCurator-sviten ingår en mjukvarubaserad skrivblockerare, som enkelt aktiveras via gränssnittet.
+
 ###Hårdvarubaserad skrivblockerare
 För att vara helt säker på att ingen data kan skrivas till bäraren, används en hårdvaruvariant av skrivblockerare. Denna består av en dosa som ansluts mellan datorn och bäraren, vilket ger blockeraren möjlighet att se till att ingen information någonsin skickas till bäraren.
 
