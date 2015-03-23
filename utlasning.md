@@ -6,6 +6,8 @@ Det finns en mängd olika programvaror tillgängliga på marknaden, en lista på
 
 Rekommendationen är dock att börja med att använda [BitCurator](http://wiki.bitcurator.net/index.php?title=Main_Page), som ger tillgång till en mängd programvaror samt rapportverktyg. För att läsa mer om BitCurator projektet, [klicka här](http://www.bitcurator.net/).
 
+BitCurator-sviten kommer att användas som referens i följande guider, men rekommendationerna är inte begränsade till någon specifik programvarusvit.
+
 [Läs om att skapa en skivavbildning (digital kopia av den fysiska bäraren)](skivavbildning.md)
 
 [Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
