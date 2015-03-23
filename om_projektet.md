@@ -27,5 +27,9 @@ Ett dokument för att dokumentera lagringsmedia då de inkommer till arkivet.
 [Checklista för digitala arkivleveranser](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/checklista_digitala_arkivleveranser.pdf)
 
 #### Sammanfattning av *'Born Digital: Guidance for Donors, Dealers, and Archival Repositories.'*
+En sammanfattning på svenska av följande text:
+
+Redwine, Gabriela. Barnard, Megan, Donovan, Kate. Farr, Erika, Forstrom, Michael. Hansen, Will. Leighton John, Jeremy. Kuhl, Nancy. Shaw, Seth. Thomas, Susan; Born Digital: Guidance for Donors, Dealers, and Archival Repositories; CLIR Publication No. 159; Washington; 2013
+http://www.clir.org/pubs/reports/pub159/pub159t.pdf
 
 [Sammanfattning av *'Born Digital: Guidance for Donors, Dealers, and Archival Repositories.'*](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/born_digital_sammanfattning.pdf)
