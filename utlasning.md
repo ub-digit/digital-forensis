@@ -14,8 +14,6 @@ Rekommendationen är dock att börja med att använda [BitCurator](http://wiki.b
 
 BitCurator-sviten kommer att användas som referens i följande guider, men rekommendationerna är inte begränsade till någon specifik programvarusvit.
 
-
-
 ## Skrivblockerare
 För att vara säker på att data inte förvanskas vid kopiering och analys från bäraren används med fördel Skrivblockerare(eng. Write blocker). Syftet är att säkerställa att ingen data skrivs till bäraren som ska analyseras. 
 
