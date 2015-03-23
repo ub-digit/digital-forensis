@@ -1,6 +1,12 @@
 # Utläsning av data från bärare
 Då integriteten hos bärare av digitalt material är osäker i bästa fall, bör dess data lagras på ett säkert sätt i så nära anknytning till att bäraren levereras till arkivet som möjligt. Risken är annars överhängande att viss data helt eller delvis går förlorad. Det finns olika sätt att åstadkomma detta, vilka vardera kommer med sina styrkor och svagheter.
 
+[Läs om att skapa en skivavbildning (digital kopia av den fysiska bäraren)](skivavbildning.md)
+
+[Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
+
+> Data kan läsas direkt från en disk, eller via en skivavbildning. Skivavbildningar är oftast att föredra, men kan ibland vara praktiskt olämpliga på grund av sin storlek.
+
 ##Programvara
 Det finns en mängd olika programvaror tillgängliga på marknaden, en lista på en del finns tillgänglig i [Projektrapporten](/bilagor/projektrapport_digital_forensis_och_digitala_personarkiv.pdf).
 
@@ -8,11 +14,7 @@ Rekommendationen är dock att börja med att använda [BitCurator](http://wiki.b
 
 BitCurator-sviten kommer att användas som referens i följande guider, men rekommendationerna är inte begränsade till någon specifik programvarusvit.
 
-[Läs om att skapa en skivavbildning (digital kopia av den fysiska bäraren)](skivavbildning.md)
 
-[Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
-
-> Data kan läsas direkt från en disk, eller via en skivavbildning. Skivavbildningar är oftast att föredra, men kan ibland vara praktiskt olämpliga på grund av sin storlek.
 
 ## Skrivblockerare
 För att vara säker på att data inte förvanskas vid kopiering och analys från bäraren används med fördel Skrivblockerare(eng. Write blocker). Syftet är att säkerställa att ingen data skrivs till bäraren som ska analyseras. 
