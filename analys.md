@@ -8,15 +8,14 @@ Efter att skivavbildningen är gjord kan bör man, för att få en överblick av
 Verktyg finns för att läsa ut denna metadata i olika former:
 
 * **Statistisk form:**
-antal filer, antal raderade filer, antal worddokument, antal pdf:er, antal bildfiler etc
+antal filer, antal raderade filer, antal worddokument, antal pdf:er, antal bildfiler etc (BitCurator: *BitCurator Reporting Tool*)
 
 * **XML-form (dfxml):**
-hela filstrukturen kodas i xml med namn, positioner och checksummor på mappar och filer
+hela filstrukturen kodas i xml med namn, positioner och checksummor på mappar och filer (BitCurator: *FiWalk*)
 
 * **Mönstermatchning:**
-resultat av sökningar på olika strängmönster som t ex epost-adresser, url:er, personnummer etc
+resultat av sökningar på olika strängmönster som t ex epost-adresser, url:er, personnummer etc (BitCurator: *Bulk-extractor*)
 
-I BitCurator heter verktyget för analys av en skivavbildning **Fiwalk**.
 ## Bedömning av metadata
 En hårddisk innehåller många
 filer som inte är intressanta för vidare analys, exempelvis programvaru- eller operativsystemfiler. Majoriteten av filerna på en hårddisk utgörs oftast av den här typen.
