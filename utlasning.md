@@ -1,6 +1,11 @@
 # Utläsning av data från bärare
 Då integriteten hos bärare av digitalt material är osäker i bästa fall, bör dess data lagras på ett säkert sätt i så nära anknytning till att bäraren levereras till arkivet som möjligt. Risken är annars överhängande att viss data helt eller delvis går förlorad. Det finns olika sätt att åstadkomma detta, vilka vardera kommer med sina styrkor och svagheter.
 
+##Programvara
+Det finns en mängd olika programvaror tillgängliga på marknaden, en lista på en del finns tillgänglig i [Projektrapporten](/bilagor/projektrapport_digital_forensis_och_digitala_personarkiv.pdf).
+
+Rekommendationen är dock att börja med att använda [BitCurator](http://wiki.bitcurator.net/index.php?title=Main_Page), som ger tillgång till en mängd programvaror samt rapportverktyg. För att läsa mer om BitCurator projektet, [klicka här](http://www.bitcurator.net/).
+
 [Läs om att skapa en skivavbildning (digital kopia av den fysiska bäraren)](skivavbildning.md)
 
 [Läs om att kopiera filer från en bärare eller skivavbildning](filkopiering.md)
