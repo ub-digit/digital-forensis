@@ -21,8 +21,11 @@ Applikationen har i sin nuvarande **enkla** form följande funktionalitet:
 
 ####Teknisk plattform
 Som lagringsplattform valdes fedora-commons (http://www.fedora-commons.org) som är en populär lösning för lagring av fildata.
+
 Till affärslagret av applikationen valdes Ruby on Rails (http://rubyonrails.org), och för presentationen EmberJS (http://www.emberjs.org).
 Resultat
+
+####Källkod
 Utvecklingen resulterade i tre separerade repositorier som tillsammans skapar en användbar produkt. Observera att systemet är rudimentärt och inte ska ses som en ’out-of-the-box’ produktionsfärdig lösning.
 dArc_store ( www.github.com/ub-digit/dArc_store ) - Innehåller en konfigurerad Fedora installation med tillhörande script för datahantering.
 dArc ( www.github.com/ub-digit/dArc ) - Innehåller affärslogiken och levererar ett API utåt som pratar med dArc_store som datakälla.
