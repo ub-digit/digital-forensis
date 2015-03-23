@@ -8,6 +8,8 @@ Rekommendationen är att alltid skapa en skivavbildning ifall möjligheten finns
 ### Kopiera från skivavbildning
 Då en skivavbildning skapas, är det möjligt att extrahera filer från denna. I BitCurator-sviten utförs detta med hjälp utav programmet Bulk Extractor, som kan plocka ut samtliga eller en delmängd av de tillgängliga filerna på disken. Bulk Extractor och likvärdiga programvaror har fördelen att de även kan extrahera raderade filer från skivavbildningen.
 ### Kopiera filer direkt
+Ifall det inte är tillämpbart att skapa en skivavbildning av bäraren, finns möjligheten att extrahera filerna från en bärare genom att koppla denna direkt till en dator. Detta tillvägagångssätt rekommenderas i regel inte, förutom i särskilda fall, exempelvis då bäraren är för stor för att på ett enkelt sätt kunna skapa en skivavbildning.
+
 ### Dokumentation
 Även då filer kopierats från en hårddisk, levererats via USB-sticka eller skickats via mail, behöver all möjlig information om filens ursprung dokumenteras. Detta även fast materialet inte kan analyseras i detalj ännu, då kontexten lätt kan gå förlorad.
 
