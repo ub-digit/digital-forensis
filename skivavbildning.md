@@ -4,7 +4,6 @@ Inom Digital Forensis är det standard att skapa en skivavbildning på materiale
 ## Att skapa en skivavbildning
 Det finns ett antal programvaror för att skapa en skivavbildning utifrån en bärare, varav Guymager som ingår i BitCurator-sviten är ett exempel. [Klicka här för att komma till BitCurators wiki-sida om Guymager.](http://wiki.bitcurator.net/index.php?title=Creating_a_Disk_Image_Using_Guymager)
 
-
 >Guymager som ingår i BitCurator sviten ger användaren möjlighet att skapa en Skivavbildning både som RAW-fil eller inkapslad via Expert Witness standarden. 
 
 ## Filformat
