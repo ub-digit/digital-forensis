@@ -27,4 +27,5 @@ I BitCurator-sviten ingår en mjukvarubaserad skrivblockerare, som enkelt aktive
 ###Hårdvarubaserad skrivblockerare
 För att vara helt säker på att ingen data kan skrivas till bäraren, används en hårdvaruvariant av skrivblockerare. Denna består av en dosa som ansluts mellan datorn och bäraren, vilket ger blockeraren möjlighet att se till att ingen information någonsin skickas till bäraren.
 
+<hr>
 >Skrivblockerare används för att vara säker på att ingen data skrivs till disken som ska analyseras. Skrivblockerare finns tillgängliga både som programvara och hårdvara.
