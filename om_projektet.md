@@ -35,3 +35,12 @@ Redwine, Gabriela. Barnard, Megan, Donovan, Kate. Farr, Erika, Forstrom, Michael
 http://www.clir.org/pubs/reports/pub159/pub159t.pdf
 
 [Sammanfattning av *'Born Digital: Guidance for Donors, Dealers, and Archival Repositories.'*](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/born_digital_sammanfattning.pdf)
+
+## Presentationer
+Presentation från konferensen ”Digitalisera, men sen då?” -  Nordiska Museet,  28 november 2014
+
+https://github.com/ub-digit/digital-forensis/raw/master/bilagor/digitala_personarkiv_och_digital_forensics.pdf 
+
+Presentation av Porter Olsen från BitCurator under BitCurator WorkShop på Kungliga Biblioteket, Stockholm 2014-06-24.  
+
+https://github.com/ub-digit/digital-forensis/raw/master/bilagor/digitala_personarkiv_och_digital_forensics.pdf 
