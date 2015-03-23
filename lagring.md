@@ -9,4 +9,4 @@ Då informationen i en skivavbildningfils DFXML innehåller information om filer
 DFXML ger möjlighet att referera extraherade filer till en viss post i filstrukturen, och kan ge en ytterligare kontext till det digitala materialet.
 
 ### dArc
-Inom projektet ingick att ta fram ett rudimentärt system för lagring av skivavbildningar samt dess metadata, vilket resulterade i systemet **dArc**
+Inom projektet ingick att ta fram ett rudimentärt system för lagring av skivavbildningar samt dess metadata, vilket resulterade i systemet **dArc**.
