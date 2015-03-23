@@ -27,6 +27,8 @@ Ett fysiskt objekt som agerar lagringsutrymme åt digital data. Ex. Diskett, CD,
 Ett fysiskt arkiv som innehåller både traditionella arkivobjekt (papper, brev, fotografier) och bärare av digital information (hårddiskar, CD-skivor, USB-minnen).
 ###Kontrollsumma (eng. checksum)
 En, med hjälp av en algoritm, uträknad summa för att unikt beskriva t ex en datafil. Kontrollsumman fungerar som ett fingeravtryck och gör att man i efterhand kan avgöra om kopian stämmer överens med originalet.
+###Metadata
+”Data om data”, t ex bibliografisk metadata (exempelvis titel, författare)  om en bok  eller teknisk metadata (storlek, filtyp) om en datafil.
 ###Proveniens
 Härkomst, ursprung. Uppgifter om ursprung, upphovsman, tidigare ägare och annan historia.
 ###Skivavbildning (eng. disk image)
