@@ -17,10 +17,10 @@ Ifall det inte är tillämpbart att skapa en skivavbildning av bäraren, finns m
 
 Ifall filerna kopierats efter att en skivavbildning skapats, sparas med fördel den DFXML som genererats för skivavbildningen, då den då kan fungera som auktoritet för var filen ursprungligen kommer ifrån.
 
-## Fördelar
+## Fördelar med filkopiering
 * Tar upp mindre lagringsutrymme, då endast relevanta data sparas.
 * Undviker rättighetsproblem, då ev. problematisk data kan försakas.
 
-## Nackdelar
+## Nackdelar med filkopiering
 * Riskerar att framtida intressant data går förlorad, då de data som ej kopieras från bäraren får anses vara förlorad (sådan data _kommer_ att nå det stadiet vid någon tidpunkt).
 * Källinformation om filens ursprung måste lagras separat, eller anses förlorad.
