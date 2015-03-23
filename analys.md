@@ -16,7 +16,7 @@ hela filstrukturen kodas i xml med namn, positioner och checksummor på mappar o
 * mönstermatchning
 resultat av sökningar på olika strängmönster som t ex epost-adresser, url:er, personnummer etc
 
-I BitCurator heter verktyget Fiwalk.
+I BitCurator heter verktyget för analys av en skivavbildning **Fiwalk**, som även har möjlighet att returnera data om innehållet på skivavbildningen i form av *DFXML*.
 ## Bedömning av metadata
 En hårddisk innehåller många
 filer som inte är intressanta för vidare analys, exempelvis programvaru- eller operativsystemfiler. Majoriteten av filerna på en hårddisk utgörs oftast av den här typen.
