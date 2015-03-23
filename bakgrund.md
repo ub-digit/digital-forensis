@@ -10,7 +10,7 @@ En annan viktig aspekt är att man vid hanteringen av de digitala dokumenten bib
 
 Digital forensis ger arkivarier nya kraftfulla verktyg och metoder för hantering av de digitala delarna av arkiv, men samtidigt väcker det frågor av etisk, legal och hermeneutisk natur om vad gränsen mellan det publika och privata går, samt vilket ansvar som donatorn, arkivarien och forskaren har gentemot arkivet. Dessa frågor måste klargöras och hanteras i samband med ett förvärv och institutionen som har kunskapen måste ta initiativet till att dessa behandlas på ett riktigt sätt. 
 
-## Begrepp och deinitioner
+## Begrepp och definitioner
 ###BitCurator
 BitCurator var ett projekt som finansierades av the Andrew W.Mellon Foundation och leddes av School of Information and Library Science at the University of North Carolina, Chapel Hill (SILS) och Maryland Institute for Technology in the Humanities (MITH).  Projektet löpte 2011-2014 med syfte att ge arkivarier bättre möjligheter att hantera digitalt fött material. Projektet har nu omvandlats till ett konsortium för att förvalta ramverket med samma namn.
 
