@@ -8,7 +8,7 @@ Då integriteten hos bärare av digitalt material är osäker i bästa fall, bö
 > Data kan läsas direkt från en disk, eller via en skivavbildning. Skivavbildningar är oftast att föredra, men kan ibland vara praktiskt olämpliga på grund av sin storlek.
 
 ##Programvara
-Det finns en mängd olika programvaror tillgängliga på marknaden, en lista på en del finns tillgänglig i [Projektrapporten](/bilagor/projektrapport_forvarv_av_digitala_personarkiv_och_digital_forensis.pdf).
+Det finns en mängd olika programvaror tillgängliga på marknaden, en lista på en del finns tillgänglig i [Projektrapporten](https://github.com/ub-digit/digital-forensis/raw/master/bilagor/projektrapport_forvarv_av_digitala_personarkiv_och_digital_forensis.pdf).
 
 Rekommendationen är dock att börja med att använda [BitCurator](http://wiki.bitcurator.net/index.php?title=Main_Page), som ger tillgång till en mängd programvaror samt rapportverktyg. För att läsa mer om BitCurator projektet, [klicka här](http://www.bitcurator.net/).
 
