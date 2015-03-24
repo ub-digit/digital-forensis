@@ -11,5 +11,6 @@
 * [Analys av data](analys.md)
 * [Lagring av data](lagring.md)
 * [Länkar / Resurser](lankar__resurser.md)
-* [Bidra / Uppdatera Vitboken](uppdatera_vitboken.md)
+<hr>
+[Bidra till / Uppdatera Vitboken](uppdatera_vitboken.md)
 
